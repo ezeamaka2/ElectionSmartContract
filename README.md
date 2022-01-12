@@ -39,4 +39,4 @@ first, run `npx hardhat` you will see the three custom task that I have defined.
 - for `register-voter`, the function requires the voters address as a value. So, run `npx hardhat register-voter --contract contract_address_from_the_deploy_script --address votersAccountAddress`
 
 ### Finally
-If you follow through the process and you find it difficult to get the smart contract up and running, simply `raise an issue` I am always whilling to assist.
+If you follow through the process and you find it difficult to get the smart contract up and running, simply `create a new issue` I am always whilling to assist.
