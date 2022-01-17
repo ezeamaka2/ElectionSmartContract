@@ -8,7 +8,7 @@ The voting smart contract follows the system in Nigeria, where VOTERS has to bee
 
 - Clone the project to you desktop
 - cd into the `ElectionSmartContract` folder and run `npm install` to install all the dependencies required
-- run `npm install dotenv`
+- run `npm install dotenv`. After the installation, create a `.env`
 
 ### Note
 
