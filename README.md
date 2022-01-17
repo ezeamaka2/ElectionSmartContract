@@ -8,7 +8,8 @@ The voting smart contract follows the system in Nigeria, where VOTERS has to bee
 
 - Clone the project to you desktop
 - cd into the `ElectionSmartContract` folder and run `npm install` to install all the dependencies required
-- run `npm install dotenv`. After the installation, create a `.env`
+- Create a `.env`
+- In the `.env` file, add `RINKEBY_RPC_KEY:"your api from alchemy"` `PRIVATE_KEY:"your metamask private key"` and `ETHERSCAN_KEY:"your etherscan key"`
 
 ### Note
 
@@ -16,7 +17,6 @@ The voting smart contract follows the system in Nigeria, where VOTERS has to bee
 - I also used my `metamask private key`. So, you have to use yours to sign the transactions [Guide to show your metamask private key](https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-Export-an-Account-Private-Key)
 - I also used `Etherscan API` for the contract verification. When a contract is verified on etherscan, it has a green check mark that allows you to see and interact with the contract from etherscan
 - You will need some test ether to be able to deploy contract. [Get Rinkeby, Ropston or Kovan Faucets from Chainlink](https://faucets.chain.link/rinkeby)
-- In the `.env` file, add `RINKEBY_RPC_KEY:"your api from alchemy"` `PRIVATE_KEY:"your metamask private key"` and `ETHERSCAN_KEY:"your etherscan key"`
 
 So, in the `.env` file, you need to replace the above `API KEYS` with your's.
 
