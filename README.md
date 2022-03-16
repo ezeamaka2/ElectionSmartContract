@@ -4,7 +4,7 @@ This project demonstrates the use of Hardhat to create a VOTING smart contract.
 
 The voting smart contract follows the system in Nigeria, where VOTERS has to bee registered before they can vote and also CANDIDATES has be registered. So, in the `contract` folder is the `Election.sol` smart contract.
 
-## To Get Started
+## How To Get Started with This Project
 
 - Clone the project to you desktop
 - cd into the `ElectionSmartContract` folder and run `npm install` to install all the dependencies required
