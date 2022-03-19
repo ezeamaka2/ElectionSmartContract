@@ -1,4 +1,4 @@
-# Election Smart Contract Project
+# Election Smart Contract Project - Solidity
 
 This project demonstrates the use of Hardhat to create a VOTING smart contract. 
 
